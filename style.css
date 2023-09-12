@@ -11,6 +11,37 @@
     margin-bottom: 0;
 }
 
+a {
+    color: darkolivegreen
+}
+
 .contact-info {
     font-weight: bold;
+    font: comic sans ms;
+}
+
+p {
+    font-family: comic sans ms;
+    color: palevioletred;
+    background-color: lightyellow;
+}
+
+ul {
+    font-family: comic sans ms;
+    list-style-type: none;
+    text-decoration: underline dotted;
+    text-decoration-color: turquoise;
+    background-color: lightseagreen ;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: purple;
+    text-decoration: hotpink wavy underline;
+}
+
+h3 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border: 1px solid goldenrod;
+    text-shadow: 3px 2px 1px goldenrod;
 }
